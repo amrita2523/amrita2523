@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amrita2523
+- 👋 Hi, I’m @amrita bharti
 - 👀 I’m interested in html 
 - 🌱 I’m currently learning c++,html,css
 - 💞️ I’m looking to collaborate on html 
